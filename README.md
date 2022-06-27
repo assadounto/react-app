@@ -2,7 +2,7 @@
 
 # React App
 
-This is the a calculator app in development with react
+This is a calculator app in development with react
 
 ### [Live Demo Link](https://assadounto.github.io/react-app)
 
