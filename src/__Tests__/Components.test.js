@@ -1,8 +1,8 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import Home from './components/Home';
-import Calculator from './components/calculator';
-import Quotes from './components/Quotes';
+import Home from '../components/Home';
+import Calculator from '../components/calculator';
+import Quotes from '../components/Quotes';
 
 it('Home renders correctly', () => {
   const tree = renderer
