@@ -10,8 +10,8 @@ describe('Tests for Logic files ', () => {
           next: null,
           operation: null,
         },
-        'AC'
-      )
+        'AC',
+      ),
     ).toEqual({
       total: null,
       next: null,
