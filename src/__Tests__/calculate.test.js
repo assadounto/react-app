@@ -19,5 +19,7 @@ describe('Tests for Logic files ', () => {
     });
   });
 
-  
+  test('tests operate.js', () => {
+    expect(operate(2, 2, '+')).toEqual('4');
+  });
 });
