@@ -4,9 +4,9 @@
 
 This is a calculator app in development with react
 
-### [Live Demo Link](https://assadounto.github.io/react-app)
-
-
+### Live Demo Links
+[Herokuapp](https://rich-maths-app.herokuapp.com/quotes)
+[Netlify](https://rich-math-app.netlify.app/)
 
 <!-- ![screenshot](./desktop.png) -->
 
